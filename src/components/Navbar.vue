@@ -44,7 +44,8 @@
         </thead>
         <tbody>
           <tr v-for="item in cart" :key="item.id">
-            <td>{{item.image}}</td>
+            <!-- <td>{{item.image}}</td> -->
+            <td><img :src="item.image" :alt="item.name"></td>
             <td>{{item.name}}</td>
             <td>{{item.price}}</td>
           </tr>
@@ -83,7 +84,7 @@ export default {
   methods: {
     payWithRave() {
       var x = getpaidSetup({
-        PBFPubKey:"<Add your rave public key here>",
+        PBFPubKey:"FLWPUBK-64cf56cece44fe6351676a08a3f88eca-X",
         customer_email: "judith@gmail.com",
         amount: this.total,
         currency: "NGN",

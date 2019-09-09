@@ -34,9 +34,9 @@ export default {
         inCart() { return this.$store.getters.inCart; }
     },
 
-    mounted (){
-        console.log('Mounted:', this.inCart);
-    },
+    // mounted (){
+    //     console.log('Mounted:', this.inCart);
+    // },
 
     methods: {
         addToCart(invId) {
