@@ -17,7 +17,20 @@ To run this project, install the following below
 - npm install
 
 ## Compiles and hot-reloads for development
-npm run serve
+- npm run serve
+
+## Compiles and minifies for production
+- npm run build
+
+## Run your tests
+- npm run test
+
+## Lints and fixes files
+
+- npm run lint
+
+## Customize configuration
+- See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ##Files
 - assets: This contains the img and css folder.
@@ -88,20 +101,4 @@ For more details and technical questions regarding this sample code please notif
 
 
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
