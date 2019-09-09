@@ -44,7 +44,6 @@
         </thead>
         <tbody>
           <tr v-for="item in cart" :key="item.id">
-            <!-- <td>{{item.image}}</td> -->
             <td><img :src="item.image" :alt="item.name"></td>
             <td>{{item.name}}</td>
             <td>{{item.price}}</td>
