@@ -39,7 +39,7 @@ To run this project, install the following below
 
 - App.vue -- This file is responsible for view renderind, but in this project we used Home.vue which is found in our   components folder for our vuews rendering.
 
-- main.js -- 
+- main.js -- Here in this folder 
 
 - router.js -- All the routes of your projects
 

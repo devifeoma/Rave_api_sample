@@ -83,7 +83,7 @@ export default {
   methods: {
     payWithRave() {
       var x = getpaidSetup({
-        PBFPubKey:"FLWPUBK-64cf56cece44fe6351676a08a3f88eca-X",
+        PBFPubKey:"",
         customer_email: "judith@gmail.com",
         amount: this.total,
         currency: "NGN",
