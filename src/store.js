@@ -10,13 +10,13 @@ export default new Vuex.Store({
       { 
           invId: 1, 
           name: 'Java How to Program', 
-          image: 'https://picsum.photos/200', 
+          image: '//placehold.it/200', 
           price: 2000 
       },
       { 
           invId: 2, 
           name: 'Python for Beginners', 
-          image: 'https://picsum.photos/id/237/200', 
+          image: '//placehold.it/200', 
           price: 1499 
       },
       { 
@@ -34,13 +34,13 @@ export default new Vuex.Store({
       { 
         invId: 5, 
         name: 'Java How to Program', 
-        image: 'https://picsum.photos/200', 
+        image: '//placehold.it/200', 
         price: 2000 
     },
     { 
         invId: 6, 
         name: 'Python for Beginners', 
-        image: 'https://picsum.photos/id/237/200', 
+        image: '//placehold.it/200', 
         price: 1499 
     },
     { 
