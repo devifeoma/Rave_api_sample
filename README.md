@@ -14,7 +14,9 @@ To run this sample code, all you need is a Text editor.
 
 # Project setup
 To run this project, install the following below
+- Remember to add your Public Key you copied from your Flutterwave Rave dashboard in the rave api code snippet
 - npm install
+
 
 # Compiles and hot-reloads for development
 - npm run serve
