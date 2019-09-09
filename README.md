@@ -1,4 +1,4 @@
-##FILE CONTENT
+#FILE CONTENT
 
 Requirement
 Project Setup
@@ -9,30 +9,30 @@ Test Cards
 Support
 For easy collection of payments, you can now accept payment directly on your website using Flutterwave rave API to handle checkout.
 
-##Requirement
+#Requirement
 To run this sample code, all you need is a Text editor.
 
-## Project setup
+# Project setup
 To run this project, install the following below
 - npm install
 
-## Compiles and hot-reloads for development
+# Compiles and hot-reloads for development
 - npm run serve
 
-## Compiles and minifies for production
+# Compiles and minifies for production
 - npm run build
 
-## Run your tests
+# Run your tests
 - npm run test
 
-## Lints and fixes files
+# Lints and fixes files
 
 - npm run lint
 
-## Customize configuration
+# Customize configuration
 - See [Configuration Reference](https://cli.vuejs.org/config/).
 
-##Files
+#Files
 - assets: This contains the img and css folder.
 
 - components -- The Components folder contains all the components used in the project Eg: Nvabar, Products etc.
@@ -46,7 +46,7 @@ To run this project, install the following below
 - store.js -- This is used for the state management which incude the State, Getters, Mutation and the Actions.
 
 
-##Test bank accounts
+#Test bank accounts
 Here are the test account details on rave.
 
 - Access Bank Account number: 0690000031 otp: 12345
@@ -96,7 +96,7 @@ Here is a test card you can use to test for a transaction:
 
 - Test Card - Incorrect PIN 5399834697894723 CVV 883 Expiry: 09/21 Pin 3325 otp 12345
 
-##Support
+#Support
 For more details and technical questions regarding this sample code please notify us on (flutterwave issue tracker url) or please email at support@flutterwavego.com
 
 
