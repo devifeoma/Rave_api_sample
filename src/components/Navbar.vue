@@ -49,7 +49,7 @@
             <td>{{item.price}}</td>
           </tr>
           <tr>
-            <td><b>Total:</b></td>
+            <td><b>Total Amount:</b></td>
             <td></td>
             <td><b><s>N</s>{{ total }}</b></td>
           </tr>
